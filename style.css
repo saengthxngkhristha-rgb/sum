@@ -1,0 +1,20 @@
+a{
+    text-decoration: none;
+}
+.head{
+    width: 100%;
+    border-bottom: 2px solid #dfe9f5 ;
+    padding: 6px;
+    background-color: darkred;
+}
+.right{
+    float: right;
+}
+.f{
+    background-color: darkred;
+    padding: 10px;
+}
+.m{
+    background-color: darkred;
+    padding: 10px;
+}
